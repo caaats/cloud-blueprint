@@ -1,5 +1,5 @@
 # cloud-blueprint
-hi, this is repository contains the *caats* cloud terraform files
+hi, this repository contains the caats cloud terraform files
 
 # modules
 * google cloud provider
